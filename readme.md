@@ -56,13 +56,10 @@ The recommendation system was evaluated using the following metrics:
 ## How to Run the Project
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/anirudhasahu92/News_recommendation_system.git
+   cd News_recommendation_system
    ```
 2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
 3. **Prepare Data:** Ensure `platform_content.csv` and `consumer_transanctions.csv` are in the appropriate directory (`data/` by default).
 4. **Run the Jupyter Notebook/Colab:** Open and execute the cells in `Content_Recommendation_System.ipynb`.
 
