@@ -57,7 +57,6 @@ The recommendation system was evaluated using the following metrics:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/anirudhasahu92/News_recommendation_system.git
-   cd News_recommendation_system
    ```
 2. **Install dependencies:**
 3. **Prepare Data:** Ensure `platform_content.csv` and `consumer_transanctions.csv` are in the appropriate directory (`data/` by default).
